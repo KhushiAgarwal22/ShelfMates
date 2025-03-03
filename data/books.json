@@ -1,0 +1,103 @@
+{
+  "books": [
+    {
+      "_id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "description": "A story of decadence and excess, The Great Gatsby is set among New York's elite during the Roaring Twenties.",
+      "genre": [
+        "Classic",
+        "Fiction",
+        "Literary"
+      ],
+      "coverImage": "/books/gatsby.jpg",
+      "rating": 4.5,
+      "publishedDate": "1925",
+      "pages": 180,
+      "isbn": "978-0743273565",
+      "publisher": "Scribner"
+    },
+    {
+      "_id": "2",
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "A dystopian novel set in a totalitarian society, warning of the dangers of government overreach and surveillance.",
+      "genre": [
+        "Science Fiction",
+        "Dystopian",
+        "Classic"
+      ],
+      "coverImage": "/books/1984.jpg",
+      "rating": 5,
+      "publishedDate": "1949",
+      "pages": 328,
+      "isbn": "978-0451524935",
+      "publisher": "Signet Classic",
+      "userRatings": [
+        {
+          "userId": "67c207cc5496ffff3e839f61",
+          "rating": 5
+        },
+        {
+          "userId": "67c207cc5496ffff3e839f61",
+          "rating": 5
+        },
+        {
+          "userId": "67c207cc5496ffff3e839f61",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "_id": "3",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "description": "A romantic novel following the emotional development of Elizabeth Bennet, who learns not to judge by first impressions.",
+      "genre": [
+        "Classic",
+        "Romance",
+        "Literary"
+      ],
+      "coverImage": "/books/pride.jpg",
+      "rating": 4.6,
+      "publishedDate": "1813",
+      "pages": 432,
+      "isbn": "978-0141439518",
+      "publisher": "Penguin Classics"
+    },
+    {
+      "_id": "4",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "description": "A fantasy novel about the adventures of hobbit Bilbo Baggins, who embarks on a quest to help a group of dwarves reclaim their homeland.",
+      "genre": [
+        "Fantasy",
+        "Adventure",
+        "Classic"
+      ],
+      "coverImage": "/books/hobbit.jpg",
+      "rating": 4.8,
+      "publishedDate": "1937",
+      "pages": 310,
+      "isbn": "978-0547928227",
+      "publisher": "Houghton Mifflin Harcourt"
+    },
+    {
+      "_id": "5",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "description": "A powerful story of racial injustice and the loss of innocence in the American South.",
+      "genre": [
+        "Classic",
+        "Literary",
+        "Historical"
+      ],
+      "coverImage": "/books/mockingbird.jpg",
+      "rating": 4.9,
+      "publishedDate": "1960",
+      "pages": 281,
+      "isbn": "978-0446310789",
+      "publisher": "Grand Central Publishing"
+    }
+  ]
+}
